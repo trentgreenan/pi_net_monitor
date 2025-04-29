@@ -1,0 +1,9 @@
+# Ignore the real config.py
+config.py
+# Ignore venv folder
+venv/
+# Ignore database files
+database/*.db
+# Ignore compiled files
+__pycache__/
+*.pyc
